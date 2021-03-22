@@ -1,0 +1,11 @@
+{
+	"key_cfg_vml_force_update_new_version": "44840",
+	"key_cfg_vml_update_new_version": "44840",
+	"ad_auto_download": "{\"landing_page_count_time\":3,\"landing_page_show_times\":100}",
+	"key_cfg_vml_remote_url": "http://www.vidfree.net/app/android/apk/vidmate.apk",
+	"key_cfg_vml_update_web_url": "http://vidfree.net/m/index.html",
+	"key_cfg_vml_apk_name": "vidmate.apk",
+	"key_cfg_vml_update_dialog_title": "Important Version Update",
+	"key_cfg_vml_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
+	"key_cfg_vml_update_button_content": "Install Now"
+}
