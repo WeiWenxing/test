@@ -1,0 +1,11 @@
+{
+    "force_update_new_version": "2111171172",
+    "update_new_version": "2111171172",
+    "remote_url": "https://www.gbwhatsapp.download/app/android/apk/GBWhatsApp.apk",
+    "update_web_url": "https://www.gbwhatsapp.download/m/index.html",
+    "apk_name": "GBWhatsApp.apk",
+    "update_dialog_title": "Important Version Update",
+    "update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
+    "update_button_content": "Install Now",
+    "remote_config_version": "3"
+}
